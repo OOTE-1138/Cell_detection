@@ -1,8 +1,8 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "김"
-    given-names: "찬형"
+  - family-names: "Kim"
+    given-names: "Chanhyung"
 title: "Assessment of Stem Cell Viability Through Visual Analysis Coupled with Teachable Machine"
 version: "1.0.0"
 url: "https://github.com/OOTE-1138/Cell_detection"
